@@ -1,6 +1,5 @@
-
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -12,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -26,55 +25,20 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **improve my skills**
+- 🔭 I'm currently working on **improving my skills**
 
-- 🌱 I’m currently learning **Django Framework (Python)**
+- 🌱 I'm currently learning **Django Framework (Python)**
 
-- ☁️ I've keen interest in IA. So,I'm learning **NumPy**
+- ☁️ I've keen interest in AI. So, I'm learning **NumPy**
 
-- ♟️ I regularly play chess on [Hashnode](https://chess.com/)
+- ♟️ I regularly play chess on [Chess.com](https://chess.com/)
 
-- 💬 Ask me about **Python, Flask, Django. Machine Learning**
+- 💬 Ask me about **Python, Flask, Django, Machine Learning**
 
 - 📫 Feel free to reach me out **alexanderandaluz.personal@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  my username: .......!
+- 🏠 Don't hesitate to drop me a **👋** on Discord – [Alexander](https://discordapp.com/users/YOUR_DISCORD_ID) my username!
 <!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=alexanderandaluz9&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderandaluz9&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexanderandaluz9&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=alexanderandaluz9&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
@@ -83,11 +47,10 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-<imgsrc="https://skillicons.dev/iconsi=git,aws,css,discord,wordpress,bash,django,pug,mint,windows,godot,firebase,replit,github,html,linux,md,nginx,powershell,mysql,postman,py,vscode,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,python,django,flask,html,css,js,mysql,postgres,mongodb,linux,docker,aws,vscode&perline=7" />
   </a>
 </p>
 
@@ -102,12 +65,17 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/alexander-andaluz-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/alexander-andaluz/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/your_twitter_handle" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/07andaluz/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
+</p>
+
+
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alexanderandaluz9&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
