@@ -29,7 +29,7 @@
 
 - 📫 Feel free to reach me out **alexanderandaluz.personal@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord – [Alexander](https://discordapp.com/users/YOUR_DISCORD_ID) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord – [Alexander](https://discordapp.com/users/alexander_pro_11) my username!
 <!--Intro end-->
 
 
