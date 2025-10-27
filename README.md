@@ -19,13 +19,14 @@
 <!--Intro start-->
 - 🔭 I'm currently working on **improving my skills**
 
-- 🌱 I'm currently learning **Django Framework (Python)**
+- 🌱 I'm currently learning **JAVA**
 
-- ☁️ I've keen interest in AI. So, I'm learning **NumPy**
+- ☁️ I've keen interest in AI. So, I'm keeping an eye on **the constant changes**
+
 
 - ♟️ I regularly play chess on [Chess.com](https://chess.com/)
 
-- 💬 Ask me about **Python, Flask, Django, Machine Learning**
+- 💬 Ask me about **Java, Javascript, Python, Flask, Django**
 
 - 📫 Feel free to reach me out **alexanderandaluz.personal@gmail.com**
 
@@ -42,7 +43,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,django,flask,html,css,js,mysql,postgres,mongodb,linux,docker,aws,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,python,django,flask,html,css,js,mysql,postgres,mongodb,linux,docker,java,vscode&perline=7" />
   </a>
 </p>
 
