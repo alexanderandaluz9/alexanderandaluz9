@@ -57,7 +57,7 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-andaluz/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexander-andaluz-/" target="_blank">
     <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="LinkedIn" width="50" height="50"/>
   </a>
 
