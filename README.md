@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,java,spring,springboot,maven,python,django,flask,fastapi,javascript,html,css,mysql,postgresql,mongodb,docker,linux,vscode,intellij,idea,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,java,spring,maven,python,django,flask,fastapi,javascript,html,css,mysql,postgresql,mongodb,docker,linux,vscode,idea,postman&perline=7" />
   </a>
 </p>
 
@@ -58,19 +58,19 @@
 <!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/alexander-andaluz/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=white" alt="LinkedIn" width="50" height="50"/>
   </a>
 
   <a href="https://www.youtube.com/@soy.alexanderandaluz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" height="50" width="50" />
+    <img src="https://api.iconify.design/simple-icons:youtube.svg?color=white" alt="YouTube" width="50" height="50"/>
   </a>
 
   <a href="https://www.tiktok.com/@07andaluz" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" height="50" width="50" />
+    <img src="https://api.iconify.design/simple-icons:tiktok.svg?color=white" alt="TikTok" width="50" height="50"/>
   </a>
 
-  <a href="https://x.com/TU_USUARIO" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="50" width="50" />
+  <a href="https://x.com/IamAndaluz" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:x.svg?color=white" alt="X" width="50" height="50"/>
   </a>
 </p>
 
