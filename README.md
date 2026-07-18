@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/alexanderandaluz9/alexanderandaluz9/blob/main/alexander-andaluz-banner.svg">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
